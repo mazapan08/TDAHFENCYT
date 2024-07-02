@@ -1,0 +1,34 @@
+body
+{
+ color: #7f4f24;
+ background-color: #a68a64;
+border-color: #a68a64;
+font-size: medium;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+right: initial;
+}
+p
+{
+font-size: medium;
+font-synthesis-position: center;
+
+}
+
+.contenedor
+{
+    width: 70%;
+    background-color:#ebd9bf ;
+    margin: auto;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+
+h1
+{
+    font-family: "Playwrite IS", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
